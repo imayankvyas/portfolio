@@ -1,0 +1,431 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.svg",
+    "logoLight": "/images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Mayank</b> <span><br />Vyas...</span>",
+    "subTitle": "<span>Front-end Developer</span> based in <span>India</span>",
+    "ImgLink": "/images/home-banner.png",
+    "phone": "+91-7014871419",
+    "email": "vyas.mayank99@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "https://www.linkedin.com/in/imayankvyas/",
+        "icon": "linkedin"
+      },
+      {
+        "link": "https://github.com/imayankvyas",
+        "icon": "github"
+      },
+      {
+        "link": "",
+        "icon": "facebook"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/myimg.jpeg",
+      "name": "Mayank Vyas",
+      "designation": "Front-end Developer <span>based in</span> India",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "Enthusiastic technical professional with a complete understanding of the entire software development lifecycle. Highly trained in web application development and responsive web design and known for having talents in React.js, Front-End development, HTML, CSS,Bootstrap, Next.js, and Redux.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+91-7014871419"
+        },
+        {
+          "icon": "person",
+          "data": "Mayank Vyas"
+        },
+        {
+          "icon": "envelope",
+          "data": "vyas.mayank99@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "Mumbai, India"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "2+",
+          "meta": "Years <br /> experience...",
+          "text": "Hello there! My name is <span>Mayank Vyas</span>. I am a web designer & developer, and Im very passionate and dedicated to my work."
+        },
+        {
+          "number": "10+",
+          "meta": "Clients <br /> Worldwide...",
+          "text": "With 2+ years experience as a professional web developer, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus sed sit ultrices et sed metus sollicitudin.”"
+    }
+  },
+  "experienceData": {
+    "text": "Hello there! My name is Mayank Vyas. I am a web designer & developer, and Im very passionate and dedicated to my work.",
+    "resumeCv": "/Resume.pdf",
+    "experience": [
+      {
+        "start": "2023",
+        "end": "Present",
+        "title": "Software Engineer",
+        "subtitle": "DENT Networks Private Limited",
+        "p1":"Developed client relationships with 35 new clients and typically exceeded sales goals by 20%",
+        "p2":"Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance.",
+        "p3":"Developing and maintaining efficient, well-structured, and modular front-end code using HTML, CSS, and JavaScript. Implement responsive designs to ensure seamless user experiences across various devices and screen sizes."
+      },
+      {
+        "start": "09/2021",
+        "end": "01/2023",
+        "title": "Web Developer (Front-end)",
+        "subtitle": "Square Bits Pvt. Ltd.",
+        "p1":"Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness.",
+        "p2":"Creating modular, responsive templates using modern CSS techniques and JavaScript.",
+        "p3":"Developing reusable components and APIs, and compiling them into front-end libraries for future use and Maintained states in the stores and dispatched the actions using Redux."
+      },
+      {
+        "start": "07/2021",
+        "end": "09/2021",
+        "title": "Web Development Internship",
+        "subtitle": "Uncertain Co",
+        "p1":"Developing front end website architecture and Designing user interactions on web pages.",
+        "p2":"Ensuring websites are accessible across many platforms, including laptops and smartphones.",
+        "p3":"Extensively used Git for version controlling and regularly pushed the code to Github."
+      }
+    ],
+    "education":[
+      {
+        "start": "2017",
+        "end": "2021",
+        "title": "B.Tech (CSE)",
+        "subtitle": "Lovely Professional University"
+      },{
+        "start": "2016",
+        "end": "2017",
+        "title": "12th",
+        "subtitle": "Mahatma Ghandhi School"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "React.Js"
+    },
+    {
+      "title": "Next.Js"
+    },
+    {
+      "title": "Redux"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "Shopify"
+    },
+    {
+      "title": "SCSS"
+    },
+    {
+      "title": "CSS3"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "Tailwind  "
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "REST api"
+    },
+    {
+      "title": "Version control"
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "/images/redesyn.png",
+      "subTitle": "Redesyn",
+      "title": "Front-end Developer",
+      "link": "https://www.redesyn.com",
+      "paragraphList": [
+        {
+          "text": "Implemented responsive web design, ensuring a seamless and consistent user experience across various devices.Integrated RESTful APIs for real-time product updates and inventory management, enhancing the customer shopping experience."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/AeroPath.png",
+      "subTitle": "Aero-Path",
+      "title": "Next.js Developer",
+      "link": "https://www.aero-path.com",
+      "paragraphList": [
+        {
+          "text": "This website shows information about online training programs for trainee who wants to learn about airport services, path details."
+        },
+        {
+          "text": "It has different products like a radio finder kit , qref checklist, and a subscription for the Aeropath app."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/musepos.png",
+      "subTitle": "MusePOS",
+      "title": "Front-end Developer",
+      "link": "https://cloud.musepos.com/login",
+      "paragraphList": [
+        {
+          "text": "It is Point of Sale System , where admin can manage product's inventory , and can generate sales report , transaction report,sale summary and display sales and profit figures,view reports and latest orders."
+        },
+        {
+          "text": "Worked in ReactJs componets, Formik,Apex Charts,React Data Table,Router,Animation and Flux concept."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/Vetpal.png",
+      "subTitle": "VetPal",
+      "title": "Front-end Developer",
+      "link": "https://www.vetpal.ie/",
+      "paragraphList": [
+        {
+          "text": "VetPal is an app/website designed to allow animal owners to directly connect with the veterinary practice who provide the primary veterinary care, responsibility and service to their animal(s).  "
+        },
+        {
+          "text": "Web Application to manage Veterinary doctors , patients , their appointments , schedules , clinincs , clients , Medications (PHARMACY PANEL , SUPER ADMIN PANEL , DASHBOARD ,DOCTOR PANEL )"
+        },
+        {
+          "text": "VetPal allows for a Client-Patient -Practice-Relationship to exist. (CPPR). Animal owners can do this remotely by booking appointments via the app or messaging the veterinary practice regarding a query. In addition to this, the app allows the client to request a Veterinary prescription from the veterinarian for an animal medicine they recommend for the animal under their care- to benefit the animal’s health and welfare. "
+        },
+        {
+          "text": "VetPal will also allow the attending veterinary practitioner to liaise with the animal owner/keeper on request of animal treatment needed. The app will also allow the owner of their animal(s) to share information regarding their animal(s) through the app so that the attending veterinary practitioner will have sufficient knowledge of the animal(s), herd or flock in question and will allow prudent prescribing practice. "
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-1.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        },
+        {
+          "imgLink": "/images/avatar-2.jpg",
+          "name": "Ema Watson",
+          "designation": "Chief Executive Officer, Brazil",
+          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Chat to me",
+        "text": "",
+        "emailLink": "vyas.mayank99@gmail.com"
+      },
+      {
+        "icon": "phone",
+        "title": "Call me",
+        "text": "+91-7014871419"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? I have got the skills. Lets team up.",
+      "text": "Tell me more about yourself and what you are got in mind."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.png",
+    "name": "Mayank Vyas"
+  },
+  "socialData": [
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/imayankvyas/"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/imayankvyas"
+    },
+    {
+      "icon": "facebook",
+      "link": ""
+    },
+    {
+      "icon": "pinterest",
+      "link": ""
+    }
+  ]
+}
